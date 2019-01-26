@@ -1,0 +1,125 @@
+{
+	"btnProceedToPayment": {
+		"ANDROID": "locator=value",
+		"IOS": "locator=value",
+		"MWEB": "locator=value",
+		"DESKTOP_WEB": "id=custom-containers-collectPaymentButtonLabel"
+	},
+	"btnMakePayment": {
+		"ANDROID": "locator=value",
+		"IOS": "locator=value",
+		"MWEB": "locator=value",
+		"DESKTOP_WEB": "id=custom-containers-submitButtonLabel"
+	},
+	"txtAmount": {
+		"ANDROID": "locator=value",
+		"IOS": "locator=value",
+		"MWEB": "locator=value",
+		"DESKTOP_WEB": "xpath=//p[contains(@class,'tl-total-amount-value')]"
+	},
+	"txtMasterCard": {
+		"ANDROID": "locator=value",
+		"IOS": "locator=value",
+		"MWEB": "locator=value",
+		"DESKTOP_WEB": "name=MasterCard"
+	},
+	"txtCardNumber": {
+		"ANDROID": "locator=value",
+		"IOS": "locator=value",
+		"MWEB": "locator=value",
+		"DESKTOP_WEB": "id=CardNumber"
+	},
+	"txtCardMonth": {
+		"ANDROID": "locator=value",
+		"IOS": "locator=value",
+		"MWEB": "locator=value",
+		"DESKTOP_WEB": "id=CardMonth"
+	},
+	"txtCardYear": {
+		"ANDROID": "locator=value",
+		"IOS": "locator=value",
+		"MWEB": "locator=value",
+		"DESKTOP_WEB": "id=CardYear"
+	},
+	"btnPayNow": {
+		"ANDROID": "locator=value",
+		"IOS": "locator=value",
+		"MWEB": "locator=value",
+		"DESKTOP_WEB": "id=Paybutton"
+	},
+	"txtCash": {
+		"DESKTOP_WEB": "css=[role='tablist']>div>button:nth-child(1)"
+	},
+	"txtCheque": {
+		"DESKTOP_WEB": "css=[role='tablist']>div>button:nth-child(2)"
+	},
+	"txtDD": {
+		"DESKTOP_WEB": "css=[role='tablist']>div>button:nth-child(3)"
+	},
+	"txtCreditDebitCard": {
+		"DESKTOP_WEB": "css=[role='tablist']>div>button:nth-child(4)"
+	},
+	"drpPaidBy": {
+		"DESKTOP_WEB": "xpath=//div[@class='select-field-placeholder']/../.."
+	},
+	"txtPayerName": {
+		"DESKTOP_WEB": "xpath=//input[@id='custom-containers-payerName']"
+	},
+	"txtPayerMobileNumber": {
+		"DESKTOP_WEB": "xpath=//input[@id='custom-containers-payerMobileNo']"
+	},
+	"btnSubmit": {
+		"DESKTOP_WEB": "id=custom-containers-submitButtonLabel"
+	},
+	"txtChequeNumber": {
+		"DESKTOP_WEB": "id=custom-containers-chequeNo"
+	},
+	"txtChequeDate": {
+		"DESKTOP_WEB": "id=custom-containers-chequeDate"
+	},
+	"txtChequeIFSC": {
+		"DESKTOP_WEB": "id=custom-containers-chequeIFSC"
+	},
+	"txtChequeBankName": {
+		"DESKTOP_WEB": "id=custom-containers-chequeBank"
+	},
+	"txtChequeBankBranch": {
+		"DESKTOP_WEB": "id=custom-containers-chequeBranch"
+	},
+	"txtDDNumber": {
+		"DESKTOP_WEB": "id=custom-containers-ddNo"
+	},
+	"txtDDDate": {
+		"DESKTOP_WEB": "id=custom-containers-ddDate"
+	},
+	"txtDDIFSC": {
+		"DESKTOP_WEB": "id=custom-containers-ddIFSC"
+	},
+	"txtDDBankName": {
+		"DESKTOP_WEB": "id=custom-containers-ddBank"
+	},
+	"txtDDBankBranch": {
+		"DESKTOP_WEB": "id=custom-containers-ddBranch"
+	},
+	"txtCardNumber": {
+		"DESKTOP_WEB": "id=custom-containers-last4Digits"
+	},
+	"txtTransactionNumber": {
+		"DESKTOP_WEB": "id=custom-containers-TrxNo"
+	},
+	"txtRepeatTransactionNumber": {
+		"DESKTOP_WEB": "id=custom-containers-repeatTrxNo"
+	},
+	"txtSuccessMessage": {
+		"DESKTOP_WEB": "css=#custom-atoms-body #custom-containers-key"
+	},
+	"txtApplicationNumber": {
+		"DESKTOP_WEB": "css=#custom-atoms-div #material-ui-header>div"
+	}
+}
+
+
+
+
+
+

@@ -1,0 +1,167 @@
+{
+	"btnFileComplaint": {
+		"DESKTOP_WEB": "id=home-new-complaint"
+	},
+	"txtMyComplaint": {
+		"DESKTOP_WEB": "id=home-old-complaint"
+	},
+	"drpComplaintType": {
+		"DESKTOP_WEB": "id=complaint-type"
+	},
+	"txtWaterandSewage": {
+		"DESKTOP_WEB": "id=WaterandSewage"
+	},
+	"txtBlockOrOverflowingSewage": {
+		"DESKTOP_WEB": "id=BlockOrOverflowingSewage"
+	},
+	"txtAdditionalDetails": {
+		"DESKTOP_WEB": "id=additional details"
+	},
+	"txtLocationDetails": {
+		"DESKTOP_WEB": "xpath=//input[@name='location-details']"
+	},
+	"txtSearchLocation": {
+		"DESKTOP_WEB": "xpath=//input[@class='searchBoxStyles']"
+	},
+	"btnPick": {
+		"DESKTOP_WEB": "id=map-pick-button"
+	},
+	"txtCity": {
+		"DESKTOP_WEB": "id=city"
+	},
+	"txtMohalla": {
+		"DESKTOP_WEB": "id=mohalla"
+	},
+	"lstFirstDropDown": {
+		"DESKTOP_WEB": "xpath=(//div[@class='autosuggest fix-for-layout-break'])[2]"
+	},
+	"txtHouseNo": {
+		"DESKTOP_WEB": "id=houseNo"
+	},
+	"txtLandmark": {
+		"DESKTOP_WEB": "id=landmark"
+	},
+	"btnSubmitComplaint": {
+		"DESKTOP_WEB": "id=addComplaint-submit-complaint"
+	},
+	"txtComplaintRegSuccessMsg": {
+		"DESKTOP_WEB": "xpath=//div[@class='label-text complaint-submitted-label']"
+	},
+	"txtComplaintNumber": {
+		"DESKTOP_WEB": "xpath=//div[@class='label-text complaint-number-value-label']"
+	},
+	"txtFirstComplaint": {
+		"DESKTOP_WEB": "id=complaint-0"
+	},
+	"btnAssign": {
+		"DESKTOP_WEB": "xpath=//div[contains(text(),'ASSIGN')]"
+	},
+	"btnReject": {
+		"DESKTOP_WEB": "id=actionOne"
+	},
+	"txtSearchLME": {
+		"DESKTOP_WEB": "id=employee-search"
+	},
+	"txtLMEName": {
+		"ANDROID": "locator=value",
+		"IOS": "locator=value",
+		"MWEB": "locator=value",
+		"DESKTOP_WEB": "xpath=//div[text()='Manju']"
+	},
+	"txtAssignedToLMEmsg": {
+		"DESKTOP_WEB": "xpath=//div[@class='label-container thankyou-text']/div"
+	},
+	"btnMarkResolved": {
+		"DESKTOP_WEB": "xpath=//*[text()='MARK RESOLVED']"
+	},
+	"btnRequestReassign": {
+		"DESKTOP_WEB": "xpath=//div[text()='REQUEST RE-ASSIGN']"
+	},
+	"txtComment": {
+		"DESKTOP_WEB": "id=reopencomplaint-comment-field"
+	},
+	"txtSearchMobileNumber": {
+		"DESKTOP_WEB": "id=mobile-no"
+	},
+	"txtSearchComplaintNumber": {
+		"DESKTOP_WEB": "id=complaint-no"
+	},
+	"btnSearch": {
+		"DESKTOP_WEB": "xpath=//div[text()='SEARCH']"
+	},
+	"txtResolvedSuccessMsg": {
+		"DESKTOP_WEB": "xpath=//div[@class='label-container secondary-text']"
+	},
+	"rdoReasonToReject": {
+		"DESKTOP_WEB": "xpath=//div[@class='undefined RadioComp']/div"
+	},
+	"btnSubmit": {
+		"DESKTOP_WEB": "id=reopencomplaint-submit-action"
+	},
+	"txtRejectedSuccessMsg": {
+		"DESKTOP_WEB": "xpath=//div[@class='label-container thankyou-text']/div"
+	},
+	"txtUploadPhoto": {
+		"DESKTOP_WEB": "css=.upload-photo-overlay>div>input"
+	},
+	"txtResolvedComplaint": {
+		"DESKTOP_WEB": "xpath=//div[@class='label-container complaint-status-text dark-color']/div[text()='Your Complaint has been Resolved']"
+	},
+	"btnRate": {
+		"DESKTOP_WEB": "css=.complaint-details-timline-button .label-container "
+	},
+	"txtFeedBackService": {
+		"DESKTOP_WEB": "id=feedback-checkbox0"
+	},
+	"txtFeedBackTime": {
+		"DESKTOP_WEB": "id=feedback-checkbox1"
+	},
+	"txtFeedBackQuality": {
+		"DESKTOP_WEB": "id=feedback-checkbox2"
+	},
+	"txtFeedBackOthers": {
+		"DESKTOP_WEB": "id=feedback-checkbox3"
+	},
+	"txtFeedBackComments": {
+		"DESKTOP_WEB": "id=feedback-comments"
+	},
+	"btnFeedBackSubmit": {
+		"DESKTOP_WEB": "id=feedback-submit-action"
+	},
+	"btnStarRate1": {
+		"DESKTOP_WEB": "id=feedback-ratings0"
+	},
+	"btnStarRate2": {
+		"DESKTOP_WEB": "id=feedback-ratings1"
+	},
+	"btnStarRate3": {
+		"DESKTOP_WEB": "id=feedback-ratings2"
+	},
+	"btnStarRate4": {
+		"DESKTOP_WEB": "id=feedback-ratings3"
+	},
+	"btnStarRate5": {
+		"DESKTOP_WEB": "id=feedback-ratings4"
+	},
+	"txtRateSubmittedMsg": {
+		"DESKTOP_WEB": "xpath=//div[@class='label-container thankyou-text']/div"
+	},
+	"icnProfile": {
+		"DESKTOP_WEB": "css=.userSettingsInnerContainer"
+	},
+	"txtLogout": {
+		"DESKTOP_WEB": "xpath=//div[text()='Logout']"
+	},
+	"btnLogout": {
+		"DESKTOP_WEB": "xpath=//div[text()='LOGOUT']"
+	},
+	"icnProfile": {
+		"DESKTOP_WEB": "xpath=//div[text()='LOGIN']"
+	}
+}
+
+
+
+
+
+

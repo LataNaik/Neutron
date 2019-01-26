@@ -1,0 +1,48 @@
+{
+	"txtMobileNumber": {
+		"ANDROID": "locator=value",
+		"IOS": "locator=value",
+		"MWEB": "locator=value",
+		"DESKTOP_WEB": "xpath=//input[@type='number']"
+	},
+	"btnContinue": {
+		"DESKTOP_WEB": "xpath=//span[text()='Continue']"
+	},
+	"txtOTP": {
+		"DESKTOP_WEB": "xpath=//input[@type='number']"
+	},
+	"btnGetStarted": {
+		"DESKTOP_WEB": "xpath=//span[text()='GET STARTED']"
+	},
+	"btnLogin": {
+		"DESKTOP_WEB": "id=login-submit-action"
+	},
+	"btnComplaints": {
+		"DESKTOP_WEB": "xpath=//div[@class='label-container ']/div[contains(text(),'Complaints')]"
+	},
+	"btnTradeLicense": {
+		"DESKTOP_WEB": "xpath=//div[@class='label-container ']/div[contains(text(),'Trade')]"
+	},
+	"txtWelcomeText": {
+		"DESKTOP_WEB": "css=.landingPageUser .label-text"
+	},
+	"txtUserIdEmployee": {
+		"DESKTOP_WEB": "id=employee-phone"
+	},
+	"txtPasswordEmployee": {
+		"DESKTOP_WEB": "id=employee-password"
+	},
+	"txtCityEmployee": {
+		"DESKTOP_WEB": "id=person-city"
+	},
+	"txtSearchCity": {
+		"DESKTOP_WEB": "id=city-picker-search"
+	},
+	"txtCitySearchResult": {
+		"DESKTOP_WEB": "xpath=//div[@class='list-main-card']"
+	},
+	"txtCitySearchResult": {
+		"DESKTOP_WEB": "xpath=//div[@class='list-main-card']"
+	}
+}
+

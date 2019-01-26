@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: testcore.scenarios.PGRFlows
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 26.826 sec <<< FAILURE! - in testcore.scenarios.PGRFlows
+rateComplaintCitizen(testcore.scenarios.PGRFlows)  Time elapsed: 24.6 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at testcore.scenarios.PGRFlows.rateComplaintCitizen(PGRFlows.java:60)
+

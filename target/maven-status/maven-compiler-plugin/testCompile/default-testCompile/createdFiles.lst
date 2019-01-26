@@ -1,0 +1,5 @@
+testcore/scenarios/PGRFlows.class
+testcore/pages/PaymentPage.class
+testcore/scenarios/TLFlows.class
+testcore/pages/ComplaintsPage.class
+testcore/pages/TradeLicense.class
