@@ -17,9 +17,6 @@ public class SupportTest {
     protected static Logger logger = AppachhiCentral.getLogger();
     private Configuration conf = null;
     protected HomePage home;
-    protected TradeLicense tradeLicense;
-    protected ComplaintsPage complaints;
-    protected PaymentPage payment;
     private IAgent agent;
     private ITestContext context = null;
     public String testName = null;
@@ -53,9 +50,6 @@ public class SupportTest {
         logger.debug(String.format("Test Method Name Started :: %s", testName));
         Map<String, String> testData = AppachhiCentral.INSTANCE.getTestData(context, testName);
         home = new HomePage(this.conf, agent, testData);
-        tradeLicense = new TradeLicense(this.conf, agent, testData);
-        complaints = new ComplaintsPage(this.conf,agent,testData);
-        payment= new PaymentPage(this.conf,agent,testData);
         logger.info(String.format("Set up for test method [%s] ended.", testName));
     }
 
@@ -75,10 +69,6 @@ public class SupportTest {
 
     protected String getTestStartInfoMessage(String method) {
         return getTestInfoMessage("start", method);
-    }
-
-    protected String getTestEndInfoMessage(String method) {
-        return getTestInfoMessage("end", method);
     }
 
 }
